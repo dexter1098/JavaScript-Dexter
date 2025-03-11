@@ -56,7 +56,7 @@ console.log(myName.replaceAll("e", "*"));
 console.log(myName.slice(5, 7));
 console.log(myName.substring(0, 3));
 
-// substr (start, num of characters)
+// substr (start, num of characters and give the remaining characters)
 console.log(myName.substr(0, 2));
 
 const accountNumber = "1234567890";
